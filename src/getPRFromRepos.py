@@ -44,7 +44,7 @@ def get_valid_prs(repo_full_name, max_prs=300):
         response = requests.get(url, headers=HEADERS).json()
 
         if not response or (isinstance(response, dict) and response.get('message')):
-            print(f"⚠️ Erro ou resposta inválida - página {page}")
+            print(f" Erro ou resposta inválida - página {page}")
             break
 
         for pr_summary in response:
