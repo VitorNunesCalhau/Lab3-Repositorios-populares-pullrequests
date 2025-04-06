@@ -52,7 +52,6 @@ def save_repos_to_csv(data, filename='repos_dataset.csv'):
     df.to_csv(filename, index=False)
     print(f"Dados salvos")
 
-# ========== EXECUÇÃO ==========
 
 if __name__ == '__main__':
     repos = get_top_repo_names(200)
@@ -63,6 +62,6 @@ if __name__ == '__main__':
         if pr_count is None:
             pr_count = "sem informações"
         data.append((repo, pr_count))
-        time.sleep(0.5)  # para evitar rate limit
+        time.sleep(0.5) 
 
     save_repos_to_csv(data, 'repos_dataset.csv')
