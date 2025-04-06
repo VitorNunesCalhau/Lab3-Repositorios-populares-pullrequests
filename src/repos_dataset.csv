@@ -1,0 +1,201 @@
+repository,pull_requests
+freeCodeCamp/freeCodeCamp,39073
+codecrafters-io/build-your-own-x,444
+sindresorhus/awesome,2089
+EbookFoundation/free-programming-books,10191
+public-apis/public-apis,3347
+jwasham/coding-interview-university,1002
+kamranahmedse/developer-roadmap,4996
+donnemartin/system-design-primer,572
+996icu/996.ICU,1906
+vinta/awesome-python,1962
+facebook/react,17068
+awesome-selfhosted/awesome-selfhosted,2986
+practical-tutorials/project-based-learning,440
+vuejs/vue,2543
+TheAlgorithms/Python,10429
+torvalds/linux,1059
+trekhleb/javascript-algorithms,765
+tensorflow/tensorflow,48308
+getify/You-Dont-Know-JS,874
+CyC2018/CS-Notes,615
+ossu/computer-science,448
+ohmyzsh/ohmyzsh,7472
+Significant-Gravitas/AutoGPT,5321
+twbs/bootstrap,15413
+microsoft/vscode,38313
+flutter/flutter,60225
+github/gitignore,4433
+jackfrued/Python-100-Days,356
+trimstray/the-book-of-secret-knowledge,sem informações
+jlevy/the-art-of-command-line,sem informações
+AUTOMATIC1111/stable-diffusion-webui,sem informações
+Snailclimb/JavaGuide,sem informações
+airbnb/javascript,sem informações
+huggingface/transformers,sem informações
+avelino/awesome-go,sem informações
+ollama/ollama,sem informações
+ytdl-org/youtube-dl,sem informações
+vercel/next.js,sem informações
+massgravel/Microsoft-Activation-Scripts,sem informações
+labuladong/fucking-algorithm,sem informações
+golang/go,sem informações
+yangshun/tech-interview-handbook,sem informações
+Chalarangelo/30-seconds-of-code,sem informações
+f/awesome-chatgpt-prompts,sem informações
+facebook/react-native,sem informações
+Genymobile/scrcpy,sem informações
+microsoft/PowerToys,sem informações
+electron/electron,sem informações
+kubernetes/kubernetes,sem informações
+justjavac/free-programming-books-zh_CN,sem informações
+krahets/hello-algo,sem informações
+nodejs/node,sem informações
+d3/d3,sem informações
+yt-dlp/yt-dlp,sem informações
+axios/axios,sem informações
+mrdoob/three.js,sem informações
+langchain-ai/langchain,sem informações
+microsoft/TypeScript,sem informações
+facebook/create-react-app,4282
+rust-lang/rust,81311
+denoland/deno,15075
+goldbergyoni/nodebestpractices,962
+521xueweihan/HelloGitHub,50
+microsoft/terminal,4583
+angular/angular,29988
+excalidraw/excalidraw,4938
+godotengine/godot,47327
+mui/material-ui,24498
+deepseek-ai/DeepSeek-V3,142
+ant-design/ant-design,19350
+ripienaar/free-for-dev,3488
+ryanmcdermott/clean-code-javascript,287
+fatedier/frp,947
+papers-we-love/papers-we-love,518
+iptv-org/iptv,7110
+nvbn/thefuck,705
+tauri-apps/tauri,5613
+iluwatar/java-design-patterns,2238
+Hack-with-Github/Awesome-Hacking,114
+puppeteer/puppeteer,6460
+langgenius/dify,6454
+PanJiaChen/vue-element-admin,591
+pytorch/pytorch,100223
+neovim/neovim,19884
+deepseek-ai/DeepSeek-R1,53
+open-webui/open-webui,2846
+microsoft/Web-Dev-For-Beginners,891
+tailwindlabs/tailwindcss,3587
+mtdvio/every-programmer-should-know,sem informações
+storybookjs/storybook,sem informações
+rustdesk/rustdesk,sem informações
+shadcn-ui/ui,sem informações
+nvm-sh/nvm,sem informações
+django/django,sem informações
+fastapi/fastapi,sem informações
+florinpop17/app-ideas,sem informações
+bitcoin/bitcoin,sem informações
+ChatGPTNextWeb/NextChat,sem informações
+sveltejs/svelte,sem informações
+jaywcjlove/awesome-mac,sem informações
+opencv/opencv,sem informações
+animate-css/animate.css,sem informações
+gothinkster/realworld,sem informações
+gin-gonic/gin,sem informações
+laravel/laravel,sem informações
+supabase/supabase,sem informações
+macrozheng/mall,sem informações
+openai/whisper,sem informações
+gohugoio/hugo,sem informações
+tonsky/FiraCode,sem informações
+home-assistant/core,sem informações
+microsoft/generative-ai-for-beginners,sem informações
+mermaid-js/mermaid,sem informações
+ggml-org/llama.cpp,sem informações
+2dust/v2rayN,sem informações
+tensorflow/models,sem informações
+doocs/advanced-java,sem informações
+oven-sh/bun,sem informações
+spring-projects/spring-boot,sem informações
+3b1b/manim,sem informações
+MisterBooo/LeetCodeAnimation,sem informações
+n8n-io/n8n,sem informações
+FortAwesome/Font-Awesome,690
+DopplerHQ/awesome-interview-questions,233
+netdata/netdata,11439
+typicode/json-server,413
+comfyanonymous/ComfyUI,1385
+bregman-arie/devops-exercises,393
+nomic-ai/gpt4all,1179
+MunGell/awesome-for-beginners,1377
+vuejs/awesome-vue,3926
+anuraghazra/github-readme-stats,2474
+elastic/elasticsearch,87052
+fighting41love/funNLP,28
+vitejs/vite,6841
+microsoft/ML-For-Beginners,522
+ByteByteGoHq/system-design-101,41
+microsoft/playwright,16346
+hoppscotch/hoppscotch,2644
+coder/code-server,1966
+nestjs/nest,8965
+CompVis/stable-diffusion,150
+Anduin2017/HowToCook,715
+thedaviddias/Front-End-Checklist,307
+moby/moby,26034
+abi/screenshot-to-code,115
+pallets/flask,2607
+junegunn/fzf,1014
+syncthing/syncthing,4344
+hakimel/reveal.js,1094
+redis/redis,6871
+base/node,204
+Developer-Y/cs-video-courses,sem informações
+swiftlang/swift,sem informações
+d2l-ai/d2l-zh,sem informações
+binary-husky/gpt_academic,sem informações
+enaqx/awesome-react,sem informações
+josephmisiti/awesome-machine-learning,sem informações
+grafana/grafana,sem informações
+protocolbuffers/protobuf,sem informações
+louislam/uptime-kuma,sem informações
+expressjs/express,sem informações
+sdmg15/Best-websites-a-programmer-should-visit,sem informações
+python/cpython,sem informações
+strapi/strapi,sem informações
+tesseract-ocr/tesseract,sem informações
+ventoy/Ventoy,sem informações
+chartjs/Chart.js,sem informações
+apache/superset,sem informações
+webpack/webpack,sem informações
+leonardomso/33-js-concepts,sem informações
+ansible/ansible,sem informações
+swisskyrepo/PayloadsAllTheThings,sem informações
+ocornut/imgui,sem informações
+kdn251/interviews,sem informações
+xtekky/gpt4free,sem informações
+lydiahallie/javascript-questions,sem informações
+sherlock-project/sherlock,sem informações
+obsproject/obs-studio,sem informações
+twitter/the-algorithm,sem informações
+immich-app/immich,sem informações
+Eugeny/tabby,sem informações
+keras-team/keras,sem informações
+fffaraz/awesome-cpp,sem informações
+awesomedata/awesome-public-datasets,sem informações
+caddyserver/caddy,2503
+openai/openai-cookbook,1036
+kelseyhightower/nocode,621
+FuelLabs/sway,3800
+resume/resume.github.com,184
+apache/echarts,1937
+AppFlowy-IO/AppFlowy,4104
+danielmiessler/SecLists,840
+socketio/socket.io,866
+PKUFlyingPig/cs-self-learning,349
+scikit-learn/scikit-learn,18534
+chrislgarry/Apollo-11,519
+binhnguyennus/awesome-scalability,96
+TheAlgorithms/Java,4795
+reduxjs/redux,2552
