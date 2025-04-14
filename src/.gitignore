@@ -4,3 +4,7 @@ venv/
 
 # Ignorar variáveis de ambiente
 .env
+
+# Ignorar backup
+backup/
+.backup/
