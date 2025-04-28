@@ -33,21 +33,30 @@ Para responder às questões de pesquisa, foi realizada a coleta de dados dos 20
 ## Resultados obtidos
 ### a. Feedback das Revisões (a fazer)
 #### RQ 01
-(a fazer)
+Pull requests menores tendem a sofrer merge com mais frequência, enquanto PRs maiores tendem a serem fechados, o que pode representar algum desvio no direcionamento da solução.
+
 #### RQ 02
-(a fazer)
+PRs que possuem um maior tempo de análise, tendem a serem fechados e não sofrer merge, o que pode representar que PRs mais complexos tendem a fugir de uma solução simples e ótima.
+
 #### RQ 03
-(a fazer)
+PRs com uma descrição maior tendem a serem aprovados com maior frequência, o que demonstra uma clareza e melhor entendimento do problema por parte do desenvolvedor.
+
 #### RQ 04
-(a fazer)
+Quanto mais comentários um PR possui, maior a chance de ele estar closed e não merged, demonstrando uma divergência na solução apresentada em relação a visão dos revisadores.
+
 ### b. Número de Revisões (a fazer)
 #### RQ 05
-(a fazer)
-#### RQ 06
-(a fazer)
-#### RQ 07
-(a fazer)
-#### RQ 08
-(a fazer)
+Quanto menor o tamanho do PR, mais revisões serão feitas, tornando-o menos complexo e mais fácil de avaliar.
 
-## Conclusão (a fazer)
+#### RQ 06
+PRs mais simples de avaliar, possuem mais revisões. Logo, quanto mais tempo de avaliação é necessário para um PR, menos quantidade de revisões ele terá.
+
+#### RQ 07
+Os PRs que possuem descrições muito longas, tendem a ter menor número de revisões.
+
+#### RQ 08
+As interações dos PRs são diretamente proporcionais ao número de revisões.
+
+## Conclusão 
+Observamos que PRs menores, com descrições mais detalhadas e menor tempo de análise, tendem a resultar em merges com mais frequência. PRs mais simples e objetivos, com uma boa comunicação entre os envolvidos, geram melhores resultados e melhores entregas por estarem mais alinhados com a solução
+Esses resultados destacam a importância de boas práticas na abertura de PRs: manter mudanças pequenas, fornecer descrições claras e objetivas, e buscar a simplicidade para favorecer tanto a revisão quanto a aprovação.
